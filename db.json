@@ -6,7 +6,7 @@
       "text": "The is a comment number 2"
     },
     {
-      "text": "New text for item # 3",
+      "text": "New text for item # 4 and # 5",
       "rating": 3,
       "id": "3"
     },
@@ -24,6 +24,11 @@
       "text": "This is another comment from Insomnia",
       "rating": 8,
       "id": "WKtvKxz"
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet",
+      "rating": 9,
+      "id": "bc0QrUQ"
     }
   ]
 }
