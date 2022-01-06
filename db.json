@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "rating": 10,
+      "text": "The is a comment number 1"
+    },
+    {
+      "id": "2",
+      "rating": 8,
+      "text": "The is a comment number 2"
+    },
+    {
+      "text": "New text for item # 3",
+      "rating": 3,
+      "id": "3"
+    },
+    {
+      "id": "5",
+      "rating": 8,
+      "text": "The is a comment number 5"
+    },
+    {
+      "id": "6",
+      "rating": 7,
+      "text": "The is a comment number 6"
+    },
+    {
+      "text": "This is another comment from Insomnia",
+      "rating": 8,
+      "id": "WKtvKxz"
+    }
+  ]
+}

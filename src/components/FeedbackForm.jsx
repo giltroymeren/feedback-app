@@ -14,7 +14,6 @@ const FeedbackForm = () => {
   const [errorMessage, setErrorMessage] = useState('')
 
   useEffect(() => {
-    console.log('Rendering form...')
     setText(current.text)
     setRating(current.rating)
     setButtonDisabled(true)
